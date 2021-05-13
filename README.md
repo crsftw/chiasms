@@ -4,9 +4,12 @@ Designed to be executed after each user BASH login.<br>
 
 **Installation**:<br>
 git clone <br>
-Append the file path at the end of the ~/.bashrc (file or any other location that can execute a script after a user logins):<br>
+Append the file path at the end of the ~/.bashrc.<br>
+**Example:**<br>
 /home/my_username/chia-status.sh<br>
+**Give the script execution permissions**:<br>
 chmod +x ./chia-status.sh<br>
+
 Logout of the SSH session and log back in. </code><br>
 
 Tested in Debian 10.9.0 x64.<br>
