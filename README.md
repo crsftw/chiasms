@@ -3,7 +3,7 @@ Chia network and wallet statistics monitoring script for Linux.<br>
 Designed to be executed after each user BASH login.<br>
 
 **Installation**:<br>
-git clone <br>
+git clone https://github.com/crsftw/chiasms.git<br>
 Append the file path at the end of the ~/.bashrc.<br>
 **Example:**<br>
 /home/my_username/chia-status.sh<br>
