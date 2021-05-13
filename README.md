@@ -17,4 +17,5 @@ The script assumes that the Chia install folder is called "chia-blockchain", sea
 
 **Known issues**:<br>
 - it slow (~4 seconds)<br>
-- it's not yet optimized.<br>
+- 
+![alt text](https://raw.githubusercontent.com/crsftw/chiasms/main/chialogin.JPG)
