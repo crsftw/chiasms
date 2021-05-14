@@ -37,7 +37,7 @@ fi
 if [[ "$SYNC" == *"Synced"* ]]; then
     echo -e "=== Wallet synced?" ' \t '  "\e[32m Yes\e[0m"
 else
-    echo -e "=== Chia connections:" ' \t '  "\e[31m NO!!!\e[0m"
+    echo -e "=== Wallet synced?" ' \t '  "\e[31m NO!!!\e[0m"
 fi
 
 # Chia network stats
